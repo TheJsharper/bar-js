@@ -1,9 +1,9 @@
 /**
  *bar.js
- *simple, elegant bart chart library{date} - version 1.0 {url}
- *copyrigth 2019  {your name}
+ *simple, elegant bart chart library 07.03.2017 - version 1.0 https://github.com/TheJsharper/bar-js
+ *copyrigth 2019  Pedro Salomon
  *Released under the MIT Licence
- *{licence url}
+ *https://github.com/TheJsharper/bar-js/blob/master/LICENCE.md
  */
 
 "use-strict";

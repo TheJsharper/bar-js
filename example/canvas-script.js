@@ -28,7 +28,6 @@ var canvasWidth = 600;
 var canvasHeight = 450;
 
 var chart = new BarChart(targetId, canvasWidth, canvasHeight, data);
-//console.log(chart);
  }
 function getRandomInt(min, max) {
 	min = Math.ceil(min);
